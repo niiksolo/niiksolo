@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Портфолио
-🔗 Все проекты → [QA Portfolio – Nikita Solovyov](https://github.com/niiksolo/QA-Portfolio)
+🔗 Все проекты → [QA Portfolio – Nikita Solovyov](https://github.com/niiksolo/QA-portfolio-links))
 
 ---
 
@@ -23,7 +23,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 ![TestRail](https://img.shields.io/badge/TestRail-31B057?logoColor=white)  
 
-**Automation / DevOps:**  
+**Automation:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)  
