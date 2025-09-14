@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Портфолио
-🔗 Все проекты → [QA Portfolio – Nikita Solovyov](https://github.com/niiksolo/QA-portfolio-links))
+🔗 Все проекты → [QA Portfolio – Nikita Solovyov](https://github.com/niiksolo/QA-portfolio-links)
 
 ---
 
@@ -41,4 +41,4 @@
 - ✉️ Email: **solo.mykyta@gmail.com**  
 - 💬 Telegram: [@n1ksolo](https://t.me/n1ksolo)  
 - 🐙 GitLab: [niiksolo](https://gitlab.com/niiksolo)  
-- 💼 LinkedIn: *(можно добавить позже)*  
+- 💼 LinkedIn: **  
