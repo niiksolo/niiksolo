@@ -41,4 +41,4 @@
 - ✉️ Email: **solo.mykyta@gmail.com**  
 - 💬 Telegram: [@n1ksolo](https://t.me/n1ksolo)  
 - 🐙 GitLab: [niiksolo](https://gitlab.com/niiksolo)  
-- 💼 LinkedIn: **  
+- 💼 LinkedIn: ** [LinkedIn](https://www.linkedin.com/in/никита-соловьев-1aa2a5377)
